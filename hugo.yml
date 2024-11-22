@@ -1,0 +1,25 @@
+baseURL: "https://fernandosouza.dev/"
+languageCode: "en-us"
+title: "Fernando Souza"
+theme: "PaperMod"
+
+params:
+  profileMode:
+    enabled: true
+    title: "Hey!" # optional default will be site title
+    subtitle: "I’m currently working on developing this website. In the meantime, feel free to contact me on LinkedIn."
+    # imageUrl: "https://media.licdn.com/dms/image/v2/C4D03AQFXf9rT6qaGoQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1571768034374?e=1737590400&v=beta&t=HcovWBV1ubIJ1xeCNhV3uia9zuTwebe8-CRAYTixcPc" # optional
+    # imageTitle: "<title of image as alt>" # optional
+    # imageWidth: 120 # custom size
+    # imageHeight: 120 # custom size
+    buttons:
+      # - name: Archive
+      #   url: "/archive"
+      # - name: Github
+      #   url: "https://github.com/"
+
+  socialIcons: # optional
+    - name: "linkedin"
+      url: "https://www.linkedin.com/in/fernandosouzafilho/"
+    - name: "Github"
+      url: "https://github.com/fernandosouza"
