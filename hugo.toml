@@ -3,15 +3,15 @@ languageCode = 'en-us'
 title = 'Fernando Souza'
 theme = "paper"
 
-[menus]
-  [[menus.main]]
-    name = 'Home'
-    pageRef = '/'
-    weight = 10
-  [[menus.main]]
-    name = 'Contact'
-    pageRef = '/contact'
-    weight = 30
+# [menus]
+#   [[menus.main]]
+#     name = 'Home'
+#     pageRef = '/'
+#     weight = 10
+#   [[menus.main]]
+#     name = 'Contact'
+#     pageRef = '/contact'
+#     weight = 30
 
 [params]
   # color style
