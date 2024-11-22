@@ -2,3 +2,20 @@ baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Fernando Souza'
 theme = "paper"
+
+[menus]
+  [[menus.main]]
+    name = 'Home'
+    pageRef = '/'
+    weight = 10
+  [[menus.main]]
+    name = 'Contact'
+    pageRef = '/contact'
+    weight = 30
+
+[params]
+  # color style
+  color = 'linen'                           # linen, wheat, gray, light
+
+  # home page profile
+  avatar = 'nandosouzafilho@gmail.com'                 # gravatar email or image url
