@@ -1,7 +1,7 @@
-baseURL = 'https://fernandosouza.github.io/website/'
+baseURL = 'https://fernandosouza.dev/'
 languageCode = 'en-us'
 title = 'Fernando Souza'
-theme = "paper"
+theme = "PaperMod"
 
 # [menus]
 #   [[menus.main]]
@@ -16,6 +16,8 @@ theme = "paper"
 [params]
   # color style
   color = 'linen'                           # linen, wheat, gray, light
+  [profileMode]
+    enabled = true
 
   # home page profile
   avatar = 'nandosouzafilho@gmail.com'                 # gravatar email or image url
